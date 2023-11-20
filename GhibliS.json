@@ -1,0 +1,94 @@
+{
+    "result": [
+    {
+        "no": "1",
+        "name": "Nausicaä of the Valley of the Wind",
+        "rilis_date": "1984",
+        "genre": "Animation, Adventure, Sci-Fi",
+        "rating": "8.00",
+        "director": "Hayao Miyazaki",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0087544%2F&psig=AOvVaw30kkyGvXf4mUJ8c9L3v75-&ust=1700577392103000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDjj83m0oIDFQAAAAAdAAAAABAE"
+    },
+    {
+        "no": "2",
+        "name": "Castle in the Sky",
+        "rilis_date": "1986",
+        "genre": "Animation, Adventure, Family",
+        "rating": "8.00",
+        "director": "Hayao Miyazaki",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0092067%2F&psig=AOvVaw3rfXsHvirUU4ohmdWNKfD1&ust=1700577434000000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC1jOHm0oIDFQAAAAAdAAAAABAE"
+    },
+    {
+        "no": "3",
+        "name": "Grave of the Fireflies",
+        "rilis_date": "1988",
+        "genre": "Animation, Drama, War",
+        "rating": "8.50",
+        "director": "Isao Takahata",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095327%2F&psig=AOvVaw0TSRCNQsadfdzsCN1Pporb&ust=1700577537218000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIizo5Ln0oIDFQAAAAAdAAAAABAE"
+    },
+    {
+        "no": "4",
+        "name": "My Neighbor Totoro",
+        "rilis_date": "1988",
+        "genre": "Animation, Comedy, Family",
+        "rating": "8.10",
+        "director": "Hayao Miyazaki",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0096283%2F&psig=AOvVaw0UaG4x4wnsvCNofXnWlUCH&ust=1700577636450000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPitzsHn0oIDFQAAAAAdAAAAABAE"
+    },
+    {
+        "no": "5",
+        "name": "Kiki's Delivery Service",
+        "rilis_date": "1989",
+        "genre": "Animation, Family, Fantasy",
+        "rating": "7.80",
+        "director": "Hayao Miyazaki",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0097814%2F&psig=AOvVaw17yzRdwayn043FC4VkwNLp&ust=1700581535364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCt7IT20oIDFQAAAAAdAAAAABAI"
+    },
+    {
+        "no": "6",
+        "name": "Only Yesterday",
+        "rilis_date": "1991",
+        "genre": "Animation, Drama, Romance",
+        "rating": "7.60",
+        "director": "Isao Takahata",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0102587%2F&psig=AOvVaw0jb_mLMs626Xwm9qEKwNFP&ust=1700581564490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjC4pL20oIDFQAAAAAdAAAAABAE"
+    },
+    {
+        "no": "7",
+        "name": "Porco Rosso",
+        "rilis_date": "1992",
+        "genre": "Animation, Adventure, Comedy",
+        "rating": "7.70",
+        "director": "Hayao Miyazaki",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0104652%2F&psig=AOvVaw2TA5o0s_SWR8tu5vZQXbH1&ust=1700581629937000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDA-7H20oIDFQAAAAAdAAAAABAE"
+    },
+    {
+        "no": "8",
+        "name": "Ocean Waves",
+        "rilis_date": "1993",
+        "genre": "Animation, Drama, Romance",
+        "rating": "6.60",
+        "director": "Tomomi Mochizuki",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Frainbowdashfan2010%2Fart%2FOcean-Waves-English-Poster-FANMADE-726323085&psig=AOvVaw27lN9tXkpP1Z8lzZiWHfLk&ust=1700581688070000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiF0s320oIDFQAAAAAdAAAAABAE"
+    },
+    {
+        "no": "9",
+        "name": "Princess Mononoke",
+        "rilis_date": "1997",
+        "genre": "Animation, Action, Adventure",
+        "rating": "8.30",
+        "director": "Hayao Miyazaki",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0119698%2F&psig=AOvVaw1Q4L5K-vzMzb_X0fLBVids&ust=1700581812906000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj0kIn30oIDFQAAAAAdAAAAABAE"
+    },
+    {
+        "no": "10",
+        "name": "Spirited Away",
+        "rilis_date": "2001",
+        "genre": "Animation, Adventure, Family",
+        "rating": "8.60",
+        "director": "Hayao Miyazaki",
+        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0245429%2F&psig=AOvVaw3XZbfI-H496-Jn3yehGvlk&ust=1700581835453000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiH75P30oIDFQAAAAAdAAAAABAE"
+    }
+   ]
+  }
