@@ -1,94 +1,94 @@
 {
     "result": [
     {
-        "no": "1",
-        "name": "Nausicaä of the Valley of the Wind",
-        "rilis_date": "1984",
-        "genre": "Animation, Adventure, Sci-Fi",
-        "rating": "8.00",
-        "director": "Hayao Miyazaki",
+        "no": "No: 1",
+        "name": "Name: Nausicaä of the Valley of the Wind",
+        "rilis_date": "Date: 1984",
+        "genre": "Genre: Animation, Adventure, Sci-Fi",
+        "rating": "Rating: 8.00",
+        "director": "Director: Hayao Miyazaki",
         "Poster": "https://m.media-amazon.com/images/M/MV5BZTI3NmJmYTQtNDg4NS00M2VlLTgzZDAtZWIwZDcyOWY5YzIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
-        "no": "2",
-        "name": "Castle in the Sky",
-        "rilis_date": "1986",
-        "genre": "Animation, Adventure, Family",
-        "rating": "8.00",
-        "director": "Hayao Miyazaki",
+        "no": "No: 2",
+        "name": "Name: Castle in the Sky",
+        "rilis_date": "Date: 1986",
+        "genre": "Genre: Animation, Adventure, Family",
+        "rating": "Rating: 8.00",
+        "director": "Director: Hayao Miyazaki",
         "Poster": "https://m.media-amazon.com/images/M/MV5BNDFhZmY2NTgtMzljYy00MTlhLTgyMjItNTEwZWJkYThhYzkyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
-        "no": "3",
-        "name": "Grave of the Fireflies",
-        "rilis_date": "1988",
-        "genre": "Animation, Drama, War",
-        "rating": "8.50",
-        "director": "Isao Takahata",
-        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095327%2F&psig=AOvVaw0TSRCNQsadfdzsCN1Pporb&ust=1700577537218000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIizo5Ln0oIDFQAAAAAdAAAAABAE"
+        "no": "No: 3",
+        "name": "Name: Grave of the Fireflies",
+        "rilis_date": "Date: 1988",
+        "genre": "Genre: Animation, Drama, War",
+        "rating": "Rating: 8.50",
+        "director": "Director: Isao Takahata",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
-        "no": "4",
-        "name": "My Neighbor Totoro",
-        "rilis_date": "1988",
-        "genre": "Animation, Comedy, Family",
-        "rating": "8.10",
-        "director": "Hayao Miyazaki",
-        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0096283%2F&psig=AOvVaw0UaG4x4wnsvCNofXnWlUCH&ust=1700577636450000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPitzsHn0oIDFQAAAAAdAAAAABAE"
+        "no": "No: 4",
+        "name": "Name: My Neighbor Totoro",
+        "rilis_date": "Date: 1988",
+        "genre": "Genre: Animation, Comedy, Family",
+        "rating": "Rating: 8.10",
+        "director": "Director: Hayao Miyazaki",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR4,0,140,209_AL_.jpg"
     },
     {
-        "no": "5",
-        "name": "Kiki's Delivery Service",
-        "rilis_date": "1989",
-        "genre": "Animation, Family, Fantasy",
-        "rating": "7.80",
-        "director": "Hayao Miyazaki",
-        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0097814%2F&psig=AOvVaw17yzRdwayn043FC4VkwNLp&ust=1700581535364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCt7IT20oIDFQAAAAAdAAAAABAI"
+        "no": "No: 5",
+        "name": "Name: Kiki's Delivery Service",
+        "rilis_date": "Date: 1989",
+        "genre": "Genre: Animation, Family, Fantasy",
+        "rating": "Rating: 7.80",
+        "director": "Director: Hayao Miyazaki",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ1ZTM1ZTgtN2Q2Ny00YjFkLTliNjEtN2I1ZmY5ZTY1OTEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
-        "no": "6",
-        "name": "Only Yesterday",
-        "rilis_date": "1991",
-        "genre": "Animation, Drama, Romance",
-        "rating": "7.60",
-        "director": "Isao Takahata",
-        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0102587%2F&psig=AOvVaw0jb_mLMs626Xwm9qEKwNFP&ust=1700581564490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjC4pL20oIDFQAAAAAdAAAAABAE"
+        "no": "No: 6",
+        "name": "Name: Only Yesterday",
+        "rilis_date": "Date: 1991",
+        "genre": "Genre: Animation, Drama, Romance",
+        "rating": "Rating: 7.60",
+        "director": "Director: Isao Takahata",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NjI2MjQxMl5BMl5BanBnXkFtZTgwMDA2MzM2NzE@._V1_UY209_CR1,0,140,209_AL_.jpg"
     },
     {
-        "no": "7",
-        "name": "Porco Rosso",
-        "rilis_date": "1992",
-        "genre": "Animation, Adventure, Comedy",
-        "rating": "7.70",
-        "director": "Hayao Miyazaki",
-        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0104652%2F&psig=AOvVaw2TA5o0s_SWR8tu5vZQXbH1&ust=1700581629937000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDA-7H20oIDFQAAAAAdAAAAABAE"
+        "no": "No: 7",
+        "name": "Name: Porco Rosso",
+        "rilis_date": "Date: 1992",
+        "genre": "Genre: Animation, Adventure, Comedy",
+        "rating": "Rating: 7.70",
+        "director": "Director: Hayao Miyazaki",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTZjMDc2N2UtZTdjZi00ODljLTgyZmEtNDljZDAwODY4NDVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
-        "no": "8",
-        "name": "Ocean Waves",
-        "rilis_date": "1993",
-        "genre": "Animation, Drama, Romance",
-        "rating": "6.60",
-        "director": "Tomomi Mochizuki",
-        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Frainbowdashfan2010%2Fart%2FOcean-Waves-English-Poster-FANMADE-726323085&psig=AOvVaw27lN9tXkpP1Z8lzZiWHfLk&ust=1700581688070000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiF0s320oIDFQAAAAAdAAAAABAE"
+        "no": "No: 8",
+        "name": "Name: Ocean Waves",
+        "rilis_date": "Date: 1993",
+        "genre": "Genre: Animation, Drama, Romance",
+        "rating": "Rating: 6.60",
+        "director": "Director: Tomomi Mochizuki",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDkzODhjMTktOTkwZS00MGQ3LTg4MGUtMDA5NWI2Y2ZiMzhjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR1,0,140,209_AL_.jpg"
     },
     {
-        "no": "9",
-        "name": "Princess Mononoke",
-        "rilis_date": "1997",
-        "genre": "Animation, Action, Adventure",
-        "rating": "8.30",
-        "director": "Hayao Miyazaki",
-        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0119698%2F&psig=AOvVaw1Q4L5K-vzMzb_X0fLBVids&ust=1700581812906000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj0kIn30oIDFQAAAAAdAAAAABAE"
+        "no": "No: 9",
+        "name": "Name: Princess Mononoke",
+        "rilis_date": "Date: 1997",
+        "genre": "Genre: Animation, Action, Adventure",
+        "rating": "Rating: 8.30",
+        "director": "Director: Hayao Miyazaki",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX140_CR0,0,140,209_AL_.jpg"
     },
     {
-        "no": "10",
-        "name": "Spirited Away",
-        "rilis_date": "2001",
-        "genre": "Animation, Adventure, Family",
-        "rating": "8.60",
-        "director": "Hayao Miyazaki",
-        "Poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0245429%2F&psig=AOvVaw3XZbfI-H496-Jn3yehGvlk&ust=1700581835453000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiH75P30oIDFQAAAAAdAAAAABAE"
+        "no": "No: 10",
+        "name": "Name: Spirited Away",
+        "rilis_date": "Date: 2001",
+        "genre": "Genre: Animation, Adventure, Family",
+        "rating": "Rating: 8.60",
+        "director": "Director: Hayao Miyazaki",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg"
     }
    ]
   }
